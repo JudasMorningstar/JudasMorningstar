@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738146609496",
+    "project_id": "holy-gram",
+    "storage_bucket": "holy-gram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738146609496:android:5df0dca3bf06faec93dd2d",
+        "android_client_info": {
+          "package_name": "com.junadesolutions.holy_gram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738146609496-r6s4atl0fpr209oucctkhij6ba8f0iin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHM9ufTDZLr8xprt3AruEMpNYSLd2sUV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738146609496-r6s4atl0fpr209oucctkhij6ba8f0iin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
