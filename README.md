@@ -1,6 +1,6 @@
 # Welcome to My Profile! 👋
 
-Hi there! I'm [Your Name], a passionate developer interested in building cool projects using modern web technologies. Below you'll find the stack I'm currently exploring and working with:
+Hi there! I'm Junade, a passionate developer interested in building cool projects using modern web technologies. Below you'll find the stack I'm currently exploring and working with:
 
 ## Tech Stack
 - **Next.js**: A React framework for building server-side rendered and static web applications.
