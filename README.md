@@ -26,8 +26,8 @@ I use these technologies to build **responsive**, **scalable**, and **high-perfo
 
 [![Junade's GitHub stats 📊](https://github-readme-stats.vercel.app/api?username=judasmorningstar&show_icons=true&theme=radical)](https://github.com/judasmorningstar/github-readme-stats)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=judasmorningstar&show_icons=true&theme=radical" alt="Your GitHub Stats" />
 </p>
 
 **"Learning by doing — there’s no better way to master new skills."**
