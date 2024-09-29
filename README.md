@@ -24,8 +24,6 @@ Here are the tools and technologies I use:
 
 I use these technologies to build **responsive**, **scalable**, and **high-performance** applications, while experimenting with **RAG** systems using **LLMs**.
 
-[![Junade's GitHub stats 📊](https://github-readme-stats.vercel.app/api?username=judasmorningstar&show_icons=true&theme=radical)](https://github.com/judasmorningstar/github-readme-stats)
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=judasmorningstar&show_icons=true&theme=radical" alt="Your GitHub Stats" />
 </p>
