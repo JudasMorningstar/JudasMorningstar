@@ -15,9 +15,9 @@ A self-taught developer passionate about exploring cutting-edge technologies and
 Here are the tools and technologies I use:
 
 <p align="left">
-  <a href="https://ui.shadcn.com/" target="_blank"><img src="https://img.shields.io/badge/-Shadcn UI-blueviolet?style=for-the-badge&logo=shadcn&logoColor=white" /></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+  <a href="https://ui.shadcn.com/" target="_blank"><img src="https://img.shields.io/badge/-Shadcn UI-black?style=for-the-badge&logo=shadcn&logoColor=white" /></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/-Tailwind_CSS-blue?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
   <a href="https://orm.drizzle.team/" target="_blank"><img src="https://img.shields.io/badge/-Drizzle ORM-green?style=for-the-badge" /></a>
   <a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
