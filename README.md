@@ -2,9 +2,6 @@
 
 ### 💻 Software Engineer | Autodidact | Open-Source Enthusiast
 
-
-A self-taught developer passionate about exploring cutting-edge technologies and continuously learning by doing. I'm currently focused on **full-stack web development** while diving deep into **open-source large language models (LLMs)** for **Retrieval-Augmented Generation (RAG)**, and leveraging tools like **Ollama** for efficient model management.
-
 - 🌱 **Autodidact**: Constantly learning and evolving through hands-on projects.
 - 🛠️ **Current Focus**: Building full-stack apps with **Shadcn UI**, **Next.js**, and **Drizzle ORM**; exploring **LLMs** like **Mistral**, **Llama 3.1**, and **Ollama** for creating **RAG** systems.
 - 🌍 **Location**: South Africa, collaborating globally 🌐.
