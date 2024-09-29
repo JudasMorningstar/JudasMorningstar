@@ -15,15 +15,14 @@ A self-taught developer passionate about exploring cutting-edge technologies and
 Here are the tools and technologies I use:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Shadcn UI-blueviolet?style=for-the-badge&logo=shadcn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-blue?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Drizzle ORM-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Mistral LLM-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Llama 3.1-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Ollama-royalblue?style=for-the-badge" />
+  <a href="https://ui.shadcn.com/" target="_blank"><img src="https://img.shields.io/badge/-Shadcn UI-blueviolet?style=for-the-badge&logo=shadcn&logoColor=white" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/-Tailwind_CSS-blue?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
+  <a href="https://orm.drizzle.team/" target="_blank"><img src="https://img.shields.io/badge/-Drizzle ORM-purple?style=for-the-badge" /></a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://mistral.ai/" target="_blank"><img src="https://img.shields.io/badge/-Mistral LLM-green?style=for-the-badge" /></a>
+  <a href="https://ai.facebook.com/blog/introducing-llama-3/" target="_blank"><img src="https://img.shields.io/badge/-Llama 3.1-orange?style=for-the-badge" /></a>
 </p>
 
 I use these technologies to build **responsive**, **scalable**, and **high-performance** applications, while experimenting with **RAG** systems using **LLMs**.
